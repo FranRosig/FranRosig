@@ -45,6 +45,6 @@ Technologies: Node.JS - Express - PostgreSQL - React - Redux - TailwindCSS</p>
 <p align="left">
 Email: <a href="mailto:franco_ros@live.com.ar">franco_ros@live.com.ar</a>
 
-Linkedin: <a href="https://www.linkedin.com/in/FranRosig" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/FranRosig" height="20" width="20" /></a>
+Linkedin: <a href="https://www.linkedin.com/in/FranRosig" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/FranRosig" height="20" width="20" />FranRosig</a>
 
 </p>
