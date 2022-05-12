@@ -27,6 +27,10 @@ const Franco = {
 <p>Technologies: Node.JS - Express - PostgreSQL - React - Redux - CSS</p>
 <p float="left">
 <h4><a href="https://www.linkedin.com/posts/franrosig_css-react-github-activity-6912986497914675200-oVbA?utm_source=linkedin_share&utm_medium=member_desktop_web">DogsApp</a></h4>
+<a> <img src="Images\WhatsApp Image 2022-05-12 at 16.25.07.jpeg" width="500" height="285"> </a>
+<a> <img src="Images\WhatsApp Image 2022-05-12 at 16.25.07 (1).jpeg" width="500" height="285"> </a>
+<a> <img src="Images\WhatsApp Image 2022-05-12 at 16.25.07 (2).jpeg" width="500" height="285"> </a>
+<a> <img src="Images\WhatsApp Image 2022-05-12 at 16.25.07 (3).jpeg" width="500" height="285"> </a>
 </p>
 <br>
 ---
