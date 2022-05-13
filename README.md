@@ -61,7 +61,7 @@ const Franco = {
 </p>
 <br>
 <hr/>
-<h3><a href="https://tech-store-prod.vercel.app"></a>E-Commerce-TechStore</h3>
+<h3><a href="https://tech-store-prod.vercel.app">E-Commerce-TechStore</a></h3>
 <p>
   Este es el segundo proyecto que desarrollé en grupo para el bootcamp de soyHenry, es un e-commerce de productos tecnológicos. El back está hecho con Express y PostgreSQL, y el front está trabajado con React, Redux, y Tailwind. Cuenta con un carrito de compras, login propio de la página y con google, wishlist e implementación de pasarela de pago utilizando MercadoPago. Cuenta además con un panel de administrador desde el cual se pueden crear y administrar las ofertas activas, agregar y eliminar productos, contactar y banear usuarios, convertir un usuario en administrador, entre otras cosas. Posee también un cuadro de estadísitcas de ventas. 
   <br/>
