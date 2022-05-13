@@ -1,4 +1,4 @@
-<img width="100%" src="https://media-exp1.licdn.com/dms/image/C4E16AQEuDhHqYcvuIg/profile-displaybackgroundimage-shrink_350_1400/0/1639512634599?e=1657756800&v=beta&t=-0sShR-aMHvB29vZ4hEV1PxC0xJaaii3huuuwLAgaS4"/>
+<img width="100%" src="https://images.unsplash.com/photo-1604964432806-254d07c11f32?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZGV2ZWxvcGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80"/>
 
 <h1 align="center"> Franco Rosignuolo </h1>
 <h3 align="center"> I´m a fullstack developer from Argentina!</h3>
